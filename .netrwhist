@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/hgfs/develop/python/hpc_specs/features'
+let g:netrw_dirhist_2='/mnt/hgfs/develop/python/hpc_specs'
+let g:netrw_dirhist_3='/mnt/hgfs/develop/python/hpc_specs/features'
+let g:netrw_dirhist_4='/mnt/hgfs/develop/erlang/hpc_messaging/test'
