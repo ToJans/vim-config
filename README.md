@@ -1,7 +1,7 @@
 ## vim-config
 
 
-My vim config for mostly Erlang dev
+My vim config for Erlang/bash/python/C dev
 
 ### Installation
 
